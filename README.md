@@ -32,3 +32,11 @@ The lite version of the messenger for real-time messaging
 ### User Search Page
 ![a searching user page](https://github.com/user-attachments/assets/ed4292b3-b443-4d00-be55-e6bee276e1eb)
 ![list of users from user page](https://github.com/user-attachments/assets/6b10e915-ca16-4672-b24f-8a2685e8ecd2)
+
+### Device adaptability
+### PC
+![adaptive pc](https://github.com/user-attachments/assets/035e2c5f-3cb1-479f-ab42-8e48bc41edc3)
+### Tablet
+![adaptive planshet](https://github.com/user-attachments/assets/98766562-5f9a-4f1e-ba80-322ab714b5db)
+### Smatphone
+![adaptive phone](https://github.com/user-attachments/assets/aea4acf3-aca0-4979-ab05-4448a98c1c1c)
